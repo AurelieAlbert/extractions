@@ -10,6 +10,7 @@
   - [MEOM opendap](https://github.com/AurelieAlbert/extractions/blob/main/platforms/opendap-eNATL60-BLBT02.md)
   
 - Regions extracted are :
+  - [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/NATL-eNATL60-BLBT02.md)
   - [Açores](https://github.com/AurelieAlbert/extractions/blob/main/regions/ACO-eNATL60-BLBT02.md)
   - [OSMOSIS](https://github.com/AurelieAlbert/extractions/blob/main/regions/OSMOSIS-eNATL60-BLBT02.md)
   - [GULFSTREAM](https://github.com/AurelieAlbert/extractions/blob/main/regions/GULFSTREAM-eNATL60-BLBT02.md)
