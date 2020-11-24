@@ -2,7 +2,8 @@
 
 - Global outputs :
 - North Atlantic :
-  - [NATL](https://github.com/AurelieAlbert/extractions/blob/main/extractions/regions/natl.md)
-  - [Labrador Sea](https://github.com/AurelieAlbert/extractions/blob/main/extractions/regions/lab.md)
+  - [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/extractions/regions/NATL.md)
+  - [Labrador Sea](https://github.com/AurelieAlbert/extractions/blob/main/extractions/regions/LAB.md)
+  - [Acores](https://github.com/AurelieAlbert/extractions/blob/main/regions/ACO.md)
 - Mediterannean :
-  - [MEDWEST](https://github.com/AurelieAlbert/extractions/blob/main/regions/medwest.md)
+  - [Western Mediterranean](https://github.com/AurelieAlbert/extractions/blob/main/regions/MEDWEST.md)
