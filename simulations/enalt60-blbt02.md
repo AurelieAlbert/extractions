@@ -3,14 +3,14 @@
 - Informations on the simulation : https://github.com/ocean-next/eNATL60/blob/master/02_experiment-setup.md
 
 - Data are available on :
-  - [CINES-occigen](https://github.com/AurelieAlbert/extractions/platforms/occigen.md)
-  - [PANGEO cloud](https://github.com/AurelieAlbert/extractions/platforms/cloud.md)
-  - [CNES-HAL](https://github.com/AurelieAlbert/extractions/platforms/hal.md)
-  - [IGE-MEOM-CAL1](https://github.com/AurelieAlbert/extractions/platforms/cal1.md)
+  - [CINES-occigen](https://github.com/AurelieAlbert/extractions/blob/main/platforms/occigen-eNATL60-BLBT02.md)
+  - [PANGEO cloud](https://github.com/AurelieAlbert/extractions/blob/main/platforms/pangeo-eNATL60-BLBT02.md)
+  - [CNES-HAL](https://github.com/AurelieAlbert/extractions/blob/main/platforms/hal-eNATL60-BLBT02.md)
+  - [IGE-MEOM-CAL1](https://github.com/AurelieAlbert/extractions/blob/main/platforms/cal1-eNATL60-BLBT02.md)
   - 
 - Regions extracted are :
-  - [Açores](https://github.com/AurelieAlbert/extractions/regions/ACO.md)
-  - [OSMOSIS](https://github.com/AurelieAlbert/extractions/regions/OSMOSIS.md)
-  - [GULFSTREAM](https://github.com/AurelieAlbert/extractions/regions/GULFSTREAM.md)
-  - [MEDWEST](https://github.com/AurelieAlbert/extractions/regions/MEDWEST.md)
+  - [Açores](https://github.com/AurelieAlbert/extractions/blob/main/regions/ACO-eNATL60-BLBT02.md)
+  - [OSMOSIS](https://github.com/AurelieAlbert/extractions/blob/main/regions/OSMOSIS-eNATL60-BLBT02.md)
+  - [GULFSTREAM](https://github.com/AurelieAlbert/extractions/blob/main/regions/GULFSTREAM-eNATL60-BLBT02.md)
+  - [MEDWEST](https://github.com/AurelieAlbert/extractions/blob/main/regions/MEDWEST-eNATL60-BLBT02.md)
   
