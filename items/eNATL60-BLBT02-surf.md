@@ -1,4 +1,4 @@
-# eNATL60-BLBT02 surface velocities available on MEOM opendap
+# eNATL60-BLBT02 surface velocities
 
  - Simulation : [eNATL60-BLBT02](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60-blbt02.md)
  - Region : [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/NATL.md)
