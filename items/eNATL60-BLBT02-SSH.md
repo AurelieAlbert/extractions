@@ -2,7 +2,7 @@
 
  - Simulation : [eNATL60-BLBT02](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60-blbt02.md)
  - Region : [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/NATL.md)
- - Period : 01/07/2009-30/06/2010
+ - Period : 01/07/2009-01/10/2010
  - Variables : sossheig
  - Vertical levels : surface
  - Path : 
