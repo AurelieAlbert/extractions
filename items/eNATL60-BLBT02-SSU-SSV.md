@@ -26,4 +26,9 @@
            cat = open_catalog("https://raw.githubusercontent.com/pangeo-data/pangeo-datastore/master/intake-catalogs/ocean/MEOM-NEMO.yaml")
            ds  = cat["eNATL60_BLBT02_SSU"].to_dask()
        ```
-       - somecrty in zarr format : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/eNATL60_BLBT02_SSV
+       - somecrty in zarr format : 
+       ```
+           from intake import open_catalog
+           cat = open_catalog("https://raw.githubusercontent.com/pangeo-data/pangeo-datastore/master/intake-catalogs/ocean/MEOM-NEMO.yaml")
+           ds  = cat["eNATL60_BLBT02_SSV"].to_dask()
+       ```
