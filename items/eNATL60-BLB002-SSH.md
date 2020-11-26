@@ -14,6 +14,5 @@
    - on [CNES-hal](https://github.com/AurelieAlbert/extractions/blob/main/platforms/hal.md) :
        - sossheig in netcdf format : /work/ALT/odatis/eNATL60/BLB002/gridT-2D
        - sossheig in zarr format : /work/ALT/odatis/eNATL60/zarr/eNATL60-BLB002-SSH-1h 
-   - on [PANGEO cloud](https://github.com/AurelieAlbert/extractions/blob/main/platforms/pangeo.md) :                 
-       - sossheig in zarr format : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/eNATL60_BLB002_SSH/
-  
+       ```
+       
