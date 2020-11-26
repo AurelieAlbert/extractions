@@ -23,6 +23,6 @@
            ds  = cat["eNATL60_BLBT02_SSH"].to_dask()
        ```
    - on [Jean-Zay-IDRIS](https://github.com/AurelieAlbert/extractions/blob/main/platforms/jean-zay.md) :                 
-       - sossheig in zarr format : 
+       - sossheig in zarr format : /gpfswork/rech/yrf/rote001/eNATL60/zarr/eNATL60-BLBT02-SSH-1h.tar
    - on [DAHU-GRICAD](https://github.com/AurelieAlbert/extractions/blob/main/platforms/gricad.md) :                 
        - sossheig in zarr format : /bettik/alberta/eNATL60/zarr/eNATL60-BLBT02-SSH-1h (chunks = 240,240,480)      
