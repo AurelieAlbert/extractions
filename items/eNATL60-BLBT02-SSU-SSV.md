@@ -21,7 +21,8 @@
        - somecrty in zarr format : /work/ALT/odatis/eNATL60/zarr/eNATL60-BLBT02-SSV-1h      
    - on [PANGEO cloud](https://github.com/AurelieAlbert/extractions/blob/main/platforms/pangeo.md) :                 
        - sozocrtx in zarr format : 
-       ````from intake import open_catalog
+       ```
+           from intake import open_catalog
            cat = open_catalog("https://raw.githubusercontent.com/pangeo-data/pangeo-datastore/master/intake-catalogs/ocean/MEOM-NEMO.yaml")
            ds  = cat["eNATL60_BLBT02_SSU"].to_dask()
        ```
