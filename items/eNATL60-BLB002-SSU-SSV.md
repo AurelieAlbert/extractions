@@ -20,5 +20,15 @@
        - sozocrtx in zarr format : /work/ALT/odatis/eNATL60/zarr/eNATL60-BLB002-SSU-1h
        - somecrty in zarr format : /work/ALT/odatis/eNATL60/zarr/eNATL60-BLB002-SSV-1h      
    - on [PANGEO cloud](https://github.com/AurelieAlbert/extractions/blob/main/platforms/pangeo.md) :                 
-       - sozocrtx in zarr format : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/eNATL60_BLB002_SSU 
-       - somecrty in zarr format : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/eNATL60_BLB002_SSV
+       - sozocrtx in zarr format : 
+       ```
+           from intake import open_catalog
+           cat = open_catalog("https://raw.githubusercontent.com/pangeo-data/pangeo-datastore/master/intake-catalogs/ocean/MEOM-NEMO.yaml")
+           ds  = cat["eNATL60_BLB002_SSU"].to_dask()
+       ```
+       - somecrty in zarr format : 
+       ```
+           from intake import open_catalog
+           cat = open_catalog("https://raw.githubusercontent.com/pangeo-data/pangeo-datastore/master/intake-catalogs/ocean/MEOM-NEMO.yaml")
+           ds  = cat["eNATL60_BLB002_SSV"].to_dask()
+       ```
