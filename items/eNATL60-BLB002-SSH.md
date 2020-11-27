@@ -1,5 +1,6 @@
 # eNATL60-BLB002 sea surface height
 
+ - Configuration : [eNATL60](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60.md)
  - Simulation : [eNATL60-BLB002](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60-blb002.md)
  - Region : [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/NATL.md)
  - Period : 01/07/2009-30/06/2010
