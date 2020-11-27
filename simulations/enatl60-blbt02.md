@@ -1,5 +1,7 @@
 # eNATL60-BLBT02
 
+A simulation ran with [eNATL60](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60.md) configuration.
+
 - Informations on the simulation : https://github.com/ocean-next/eNATL60/blob/master/02_experiment-setup.md
 
 - Data are available on :
