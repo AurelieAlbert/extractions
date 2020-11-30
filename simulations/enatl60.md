@@ -1,5 +1,8 @@
 # eNATL60
 
+- Bathymetry :
+![map of bathymetry](https://github.com/AurelieAlbert/extractions/blob/main/regions/notebooks-maps/bathy_eNATL60.png)
+
 - Informations on the configuration : https://github.com/ocean-next/eNATL60/blob/master/02_experiment-setup.md
 
 - Simulations conducted with this configuration :
