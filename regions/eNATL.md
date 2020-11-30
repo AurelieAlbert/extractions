@@ -1,6 +1,6 @@
 # extended North Atlantic
 
-The eNATL region cooresponds to the blue area on this map :
+The eNATL region corresponds to the blue area on this map :
 ![eNATL map](https://github.com/AurelieAlbert/extractions/blob/main/regions/notebooks-maps/region_eNATL.png)
 
 
