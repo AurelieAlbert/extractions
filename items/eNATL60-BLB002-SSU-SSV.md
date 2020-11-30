@@ -2,8 +2,9 @@
 
  - Configuration : [eNATL60](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60.md)
  - Simulation : [eNATL60-BLB002](https://github.com/AurelieAlbert/extractions/blob/main/simulations/enatl60-blb002.md)
- - Region : [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/NATL.md)
+ - Region : [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/eNATL.md)
  - Period : 01/07/2009-30/06/2010
+ - Frequency : 1h
  - Variables : somecrty, sozocrtx
  - Vertical levels : surface
  - Path : 
