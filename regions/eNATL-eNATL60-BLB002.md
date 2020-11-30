@@ -1,4 +1,4 @@
-# NATL extractions of eNATL60-BLBT02
+# eNATL extractions of eNATL60-BLBT02
 
 the whole domain, in fact ...
 
