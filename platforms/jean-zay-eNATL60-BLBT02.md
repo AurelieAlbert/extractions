@@ -2,5 +2,5 @@
 
 
   - North Atlantic (whole domain):
-    - [Sea Surface Height](https://github.com/AurelieAlbert/extractions/blob/main/items/eNATL60-BLBT02-SSH.md)
+    - [Sea Surface Height](../items/eNATL60-BLBT02-SSH.md)
                                     
