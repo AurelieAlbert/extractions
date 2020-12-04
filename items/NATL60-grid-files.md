@@ -1,23 +1,23 @@
 # NATL60 grid files
 
- - Configuration : [NATL60](https://github.com/AurelieAlbert/extractions/blob/main/simulations/natl60.md)
- - Region : [North Atlantic](https://github.com/AurelieAlbert/extractions/blob/main/regions/NATL.md)
+ - Configuration : [NATL60](../simulations/natl60.md)
+ - Region : [North Atlantic](../regions/NATL.md)
  - Variables : grid variables
  - Path : 
-   - on [MEOM opendap](https://github.com/AurelieAlbert/extractions/tree/main/platforms) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/NATL60-I/catalog.html
-   - on [cal1 server](https://github.com/AurelieAlbert/extractions/blob/main/platforms/cal1.md) : 
+   - on [MEOM opendap](../platforms/opendap.d) : https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/NATL60-I/catalog.html
+   - on [cal1 server](../platforms/cal1.md) : 
       - coordinate file : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_coordinates_v4.nc
       - byte mask : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_byte_mask.nc
       - mesh hgrk : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_hgr.nc
       - mesh zgr : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_zgr.nc
       - bathymetry : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_bathymeter_zps_gebco_v4_time.nc
-   - on [CINES-occigen](https://github.com/AurelieAlbert/extractions/blob/main/platforms/occigen.md) :
+   - on [CINES-occigen](../platforms/occigen.md) :
       - coordinate file : /store/molines/NATL60/NATL60-I/NATL60_coordinates_v4.nc
       - byte mask : /store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_byte_mask.nc
       - mesh hgrk :/store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_hgr.nc
       - mesh zgr : /store/molines/NATL60/NATL60-I/NATL60_v4.1_cdf_mesh_zgr.nc
       - bathymetry : /mnt/meom/MODEL_SET/NATL60/NATL60-I/NATL60_bathymeter_zps_gebco_v4_time.nc
-   - on [PANGEO cloud](https://github.com/AurelieAlbert/extractions/blob/main/platforms/pangeo.md) : 
+   - on [PANGEO cloud](../platforms/pangeo.md) : 
       - coordinates and masks : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/NATL60_coord/
       - mesh zgr : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/NATL60_vertical_grid/
       - mesh hgr : https://catalog.pangeo.io/browse/master/ocean/MEOM_NEMO/NATL60_horizontal_grid/
